@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   Our Stats :</h3>
-
-###
