@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/dtQhJhM"  />
-</div>
-
 ###
 
 <div align="center">
