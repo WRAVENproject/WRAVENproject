@@ -1,8 +1,18 @@
 ###
 
+![Horizontal logo transparent(1)](https://github.com/user-attachments/assets/e6e71fc4-1bc0-443e-ae1d-a5e9fc93a0d5)
+
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://wraven.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/wravenproject" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linktree logo"  />
+  </a>
+   <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="website logo"  />
   </a>
 </div>
 
