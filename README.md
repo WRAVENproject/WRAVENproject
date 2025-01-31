@@ -6,14 +6,24 @@
 
 <div align="center">
   <a href="https://wraven.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="website button"  />
+  </a>
+  <a href="https://wraven.org/blog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=linkedin&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Blog button"  />
+  </a>
+   <a href="https://wraven.org/blog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Latest%20Research&logo=twitter&label=&color=002180&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Research button"  />
   </a>
   <a href="https://linktr.ee/wravenproject" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree button"  />
   </a>
    <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin button"  />  
   </a>
+   
+</div>
+
+<div align="center">
 </div>
 
 ###
