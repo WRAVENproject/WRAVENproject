@@ -11,8 +11,8 @@
   </style>
 
   <!-- Light Mode Image -->
-  <image class="light" href="light-Horizontal logo transperent color inverted -- cropped smaller.png" width="500" height="300"/>
+  <image class="light" href="light-Horizontal logo transperent color inverted -- cropped smaller.png" width="400" height="65"/>
 
   <!-- Dark Mode Image -->
-  <image class="dark" href="Horizontal logo transparent--cropped smaller.png" width="500" height="300"/>
+  <image class="dark" href="Horizontal logo transparent--cropped smaller.png" width="400" height="65"/>
 </svg>
