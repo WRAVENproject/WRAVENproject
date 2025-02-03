@@ -8,7 +8,6 @@
 
 
 
-
 <div align="center">
   <a href="https://wraven.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="website button"  />
@@ -25,10 +24,11 @@
    <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin button"  />  
   </a>
-
-  </a>
    <a href="https://experiencewmu.wmich.edu/organization/wraven" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="ExperienceWMU button"  />  
+  </a>
+   <a href="https://experiencewmu.wmich.edu/organization/computer-club-at-wmu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Computer Club @ WMU&logo=linkedin&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="CCAWMU button"  />  
   </a>
 </div>
 
@@ -41,11 +41,11 @@
 
 ###
 
-<h3 align="left">🐦‍⬛  About Us 🐦‍⬛</h3>
+<h3 align="left">🐦‍⬛  *About Us* 🐦‍⬛</h3>
 
 ###
 
-<p align="left">We are an undergraduate Cybersecurity group based out of Western Michigan University.<br>Some things that we do:<br>- ✍️ Write Research Papers<br>- 👾 Analyze Malware and Vulnerabilities<br>- 🤝 Community Outreach Events</p>
+<p align="left">Welcome to our GitHub page! We are an undergraduate Cybersecurity group based out of Western Michigan University. See our *ExperienceWMU* page for more on who we are, along with up and coming events and our usual meeting time. Team CTF's with the Computer Club every other weekend at our meeting place!<br><br><br>Some things that we do:<br>- ✍️ Write Research Papers<br>- 👾 Analyze Malware and Vulnerabilities<br>- 🤝 Community Outreach Events<br>- 💻 Provide Real World Experience to Members</p>
 
 ###
 
