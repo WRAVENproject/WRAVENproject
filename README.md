@@ -1,6 +1,11 @@
 ###
 
-![Horizontal logo transparent(1)](https://github.com/user-attachments/assets/e6e71fc4-1bc0-443e-ae1d-a5e9fc93a0d5)
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/756e2ad2-2427-4709-a41c-c05e5705c6fe" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" alt="Description of the image">
+</picture>
+
 
 
 
