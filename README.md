@@ -27,7 +27,7 @@
    <a href="https://experiencewmu.wmich.edu/organization/wraven" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="ExperienceWMU button"  />  
   </a>
-   <a href="https://experiencewmu.wmich.edu/organization/computer-club-at-wmu" target="_blank">
+   <a href="https://cclub.cs.wmich.edu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Computer Club @ WMU&logo=linkedin&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="CCAWMU button"  />  
   </a>
 </div>
