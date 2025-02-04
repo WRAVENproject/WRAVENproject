@@ -41,6 +41,6 @@
 
 ###
 
-<h3 align="left">Check us out on ExperienceWMU, or read our latest research paper with the buttons above.</h3>
+<h3 align="center">Check us out on ExperienceWMU, or read our latest research paper with the buttons above.</h3>
 
 ### 
