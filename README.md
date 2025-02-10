@@ -15,7 +15,7 @@
   <a href="https://wraven.org/blog" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=linkedin&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Blog button"  />
   </a>
-   <a href="https://wraven.org/posts/Salt_Typhoon" target="_blank">
+   <a href="https://wraven.org/posts/latest" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Latest%20Research&logo=twitter&label=&color=002180&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Research button"  />
   </a>
   <a href="https://linktr.ee/wravenproject" target="_blank">
