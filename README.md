@@ -44,3 +44,8 @@
 <h3 align="center">Check us out on ExperienceWMU, or read our latest research paper with the buttons above.</h3>
 
 ### 
+
+
+<p align="center">
+  <img src="https://github.com/WRAVENproject/WRAVENproject/blob/06fa6cb0ad098dd8430b3c46e381a4859963477c/iStock-1401570219.png" alt="Description">
+</p>
