@@ -12,7 +12,7 @@
   <a href="https://wraven.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="website button"  />
   </a>
-  <a href="https://wraven.org/blog/WRAVEN_GhostSpider_Malware_Report" target="_blank">
+  <a href="https://blog.wraven.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=linkedin&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Blog button"  />
   </a>
    <a href="https://wraven.org/blog/WRAVEN_GhostSpider_Malware_Report" target="_blank">
