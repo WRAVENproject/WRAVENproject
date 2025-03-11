@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Latest%20Research&logo=twitter&label=&color=002180&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Research button"  />
   </a>
   <a href="https://linktr.ee/wravenproject" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linktree button"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=09BA00&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linktree button"  />
   </a>
    <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin button"  />  
@@ -29,6 +29,9 @@
   </a>
    <a href="https://cclub.cs.wmich.edu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Computer Club @ WMU&logo=linkedin&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="CCAWMU button"  />  
+  </a>
+  <a href="https://forms.gle/84tbKj7n3Y2ekupa7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FREE TRAINING&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Google Form Button"  />
   </a>
 </div>
 
