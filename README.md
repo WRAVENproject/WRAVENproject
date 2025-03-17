@@ -18,9 +18,6 @@
   <a href="https://linktr.ee/wravenproject" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=09BA00&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linktree button"  />
   </a>
-   <a href="https://www.linkedin.com/company/wraven-project" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin button"  />  
-  </a>
    <a href="https://experiencewmu.wmich.edu/organization/wraven" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="ExperienceWMU button"  />  
   </a>
