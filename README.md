@@ -6,8 +6,7 @@
   <img src="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" alt="WRAVEN Logo">
 </picture>
 
-<h1>WRAVEN</h1>
-<h3>Western Research Advisory for Vulnerabilities, Exploits & Networks</h3>
+<h1>Western Research Advisory for Vulnerabilities, Exploits & Networks</h3>
 <p><strong>Student-led threat research. Real-world cyber ops.</strong></p>
 
 </div>
@@ -21,10 +20,10 @@
   <a href="https://blog.wraven.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=hashnode&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
-  <a href="https://threat.wraven.org/" target="_blank">
+  <a href="https://public.wraven.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Threat Dashboard&logo=datadog&label=&color=ff4444&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
-  <a href="https://discord.wraven.org/" target="_blank">
+  <a href="https://wraven.org/discord" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://wraven.org/donate" target="_blank">
