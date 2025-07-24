@@ -1,48 +1,66 @@
-###
+<div align="center">
 
 <picture>
   <source srcset="https://github.com/user-attachments/assets/756e2ad2-2427-4709-a41c-c05e5705c6fe" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" alt="Description of the image">
+  <img src="https://github.com/user-attachments/assets/fc33aaef-ea57-482f-aba1-ec06be4e9bc6" alt="WRAVEN Logo">
 </picture>
 
+<h1>WRAVEN</h1>
+<h3>Western Research Advisory for Vulnerabilities, Exploits & Networks</h3>
+<p><strong>Student-led threat research. Real-world cyber ops.</strong></p>
 
+</div>
+
+---
 
 <div align="center">
   <a href="https://wraven.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=wraven.org&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="website button"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=linkedin&label=&color=767676&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://blog.wraven.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=linkedin&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Blog button"  />
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=hashnode&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" />
+  </a>
+  <a href="https://threat.wraven.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threat Dashboard&logo=datadog&label=&color=ff4444&logoColor=white&labelColor=&style=for-the-badge" height="38" />
+  </a>
+  <a href="https://discord.wraven.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="38" />
+  </a>
+  <a href="https://wraven.org/donate" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Donate&logo=githubsponsors&label=&color=FF3366&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://linktr.ee/wravenproject" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=09BA00&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linktree button"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=twitter&label=&color=09BA00&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
-   <a href="https://experiencewmu.wmich.edu/organization/wraven" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="ExperienceWMU button"  />  
+  <a href="https://experiencewmu.wmich.edu/organization/wraven" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
-   <a href="https://cclub.cs.wmich.edu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Computer Club @ WMU&logo=linkedin&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="CCAWMU button"  />  
-  </a>
-  <a href="https://forms.gle/84tbKj7n3Y2ekupa7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=FREE TRAINING&logo=twitter&label=&color=8800ff&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Google Form Button"  />
+  <a href="https://cclub.cs.wmich.edu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Computer Club @ WMU&logo=linux&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
 </div>
 
-<div align="center">
-</div>
+---
 
-###
+## About WRAVEN
 
-<h1 align="center">Hack. Inspire. Research. Learn.</h1>
+WRAVEN (Western Research Advisory for Vulnerabilities, Exploits & Networks) is a student-led cybersecurity team at Western Michigan University.  
+We run live ops, publish research, build open-source tools, and host trainings for students who want to break stuff (legally) and learn fast.
 
-###
+- Weekly meetings, open to all skill levels  
+- Real threat actor tracking, malware analysis, and CTF training  
+- Projects include threat reporting, research, malware analysis, and more 
+- Based out of WMU — but open to collaboration beyond it  
 
-<h3 align="center">Check us out on ExperienceWMU, or read our latest research paper with the buttons above.</h3>
+We're fiscally sponsored by [The Hack Foundation (Hack Club)](https://hackclub.com/bank), a 501(c)(3) nonprofit (EIN: 81-2908499).  
+That means all donations are tax-deductible and directly fund student cybersecurity work.
 
-### 
+> 🛠 We don't do cybersecurity theater. We build ops-grade systems, publish real data, and train the next gen of threat analysts.
 
+---
 
-<p align="center">
-  <img src="https://github.com/WRAVENproject/WRAVENproject/blob/06fa6cb0ad098dd8430b3c46e381a4859963477c/iStock-1401570219.png" alt="Description">
-</p>
+### Wanna contribute?
+
+- Fork our repos and mess around.  
+- Or just [join the Discord](https://discord.wraven.org) and say hi.
